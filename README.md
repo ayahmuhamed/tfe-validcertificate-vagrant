@@ -60,7 +60,7 @@ vagrant up
 
 * Enter *Password!* to unlock the console
 
-
+```
 
 
 ### Cleanup
@@ -69,4 +69,3 @@ vagrant up
 vagrant destroy -f
 ```
 
-_
